@@ -1,1 +1,1 @@
-Thiis is the README file
+0x02. Python - import & modules`
